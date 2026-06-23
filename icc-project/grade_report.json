@@ -6,7 +6,7 @@
     "course": "자동제어 - 2026 봄",
     "ai_usage": "Gemini used to design the ESC and differential braking algorithms in the controller code"
   },
-  "timestamp": "2026-06-23T23:25:16",
+  "timestamp": "2026-06-23T23:59:51",
   "quantitative": {
     "score": 53.999999999999993,
     "max": 70,
